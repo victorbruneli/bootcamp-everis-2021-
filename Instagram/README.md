@@ -11,5 +11,5 @@ Css.
 ---
 
 <p align="center">
-<img src="./insta.png" width="500px" >
+<img src="./insta.png" width="700px" >
 </p>
