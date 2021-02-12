@@ -1,10 +1,10 @@
-# Página Instagram
+# Instagram
 
 Ilustrando a página instagram.
 
 # Criação
 
-Página foi criada com:
+Página criada com:
 Html,
 Css.
 
