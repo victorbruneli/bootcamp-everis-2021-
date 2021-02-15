@@ -1,15 +1,15 @@
-# Página Instagram
+# Instagram
 
 Ilustrando a página instagram.
 
 # Criação
 
-Página foi criada com:
+Página criada com:
 Html,
 Css.
 
 ---
 
 <p align="center">
-<img src="./img/insta.png" width="500px" >
+<img src="./insta.png" width="700px" >
 </p>
