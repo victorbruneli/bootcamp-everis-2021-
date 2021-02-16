@@ -18,5 +18,5 @@ public class ForIf {
             System.out.println("impar = "+n);
         }   
     }
-  }
+}
 }
