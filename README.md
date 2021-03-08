@@ -1,3 +1,3 @@
-# BOOTCAMP EVERIS 2021
+# BOOTCAMP EVERIS e INTER 2021
 
-Todo estudo realizado no Bootcamp Everis da Digital Innovation One.
+Todo estudo realizado no Bootcamp Everis e Inter da Digital Innovation One.
