@@ -5,7 +5,3 @@ Todos estudos realizado neste repositório, foram resultados do curso da Digital
 # Liguagem utilizada.
 
 Todas aplicações foram realizadas em Java.
-
-# Imagens dos conteúdos teóricos.
-
-Img Estudos.
